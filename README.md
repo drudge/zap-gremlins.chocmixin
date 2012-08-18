@@ -1,4 +1,4 @@
-# Gist mixin for Chocolat
+# Zap Gremlins mixin for Chocolat
 
 This mixin adds a Zap Gremlins action to Chocolat that will remove non-ASCII characters from a document.
 
