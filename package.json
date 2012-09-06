@@ -1,0 +1,19 @@
+{
+  "name": "zap-gremlins",
+  "version": "1.0.0",
+  "description": "Adds command to remove non-ASCII characters to Chocolat",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drudge/zap-gremlins.chocmixin.git"
+  },
+  "keywords": [
+    "gremlins",
+    "strip",
+    "ascii",
+    "clean",
+    "text"
+  ],
+  "author": "Nicholas Penree <nick@penree.com>",
+  "license": "MIT"
+}
